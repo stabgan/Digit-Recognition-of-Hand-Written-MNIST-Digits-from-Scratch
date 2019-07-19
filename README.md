@@ -11,3 +11,5 @@
 Achieved around 99% accuracy with cubic polynomial kernel of 10 dimension PCA using Softmax regression 
 
 #### This is only part1 using ML . Part2 using Neural Networks will be up soon .
+
+I didn't uploaded the MNIST dataset , it's available in internet 
